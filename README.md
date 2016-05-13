@@ -1,2 +1,0 @@
-# xjq
-submit text
